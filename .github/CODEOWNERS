@@ -1,0 +1,8 @@
+# Every change is reviewed by a maintainer.
+* @innerluxesdev
+
+# The sitemap reader, the map readers, URL normalisation and the checks decide every line of the report; changes need extra care.
+/src/xml.js @innerluxesdev
+/src/load.js @innerluxesdev
+/src/url.js @innerluxesdev
+/src/check.js @innerluxesdev
