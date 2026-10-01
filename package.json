@@ -1,0 +1,47 @@
+{
+  "name": "redirect-map-check",
+  "version": "1.0.0",
+  "description": "Check a redirect map before a website moves to a new platform or URL structure: every old URL must reach a page of the new site in one permanent redirect. Finds unmapped URLs, missing targets, chains, loops and redirects to the home page. Reads sitemaps and map files, never fetches a page, no dependencies.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "bin": {
+    "redirect-map-check": "bin/redirect-map-check.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "docs",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "test:coverage": "node --test --experimental-test-coverage \"test/*.test.js\"",
+    "check": "node tools/check.mjs",
+    "example": "node tools/example.mjs"
+  },
+  "keywords": [
+    "redirects",
+    "seo",
+    "site-migration",
+    "sitemap",
+    "ecommerce",
+    "301",
+    "ci",
+    "cli"
+  ],
+  "author": "INNERLUXES <info@innerluxes.dev>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INNERLUXES/redirect-map-check.git"
+  },
+  "homepage": "https://innerluxes.dev/web-development/ecommerce"
+}
