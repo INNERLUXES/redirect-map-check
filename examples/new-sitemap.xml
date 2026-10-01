@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The same made-up store on its new platform. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc></url>
+  <url><loc>https://www.example.com/pages/about-us</loc></url>
+  <url><loc>https://www.example.com/pages/contact</loc></url>
+  <url><loc>https://www.example.com/pages/shipping-returns</loc></url>
+  <url><loc>https://www.example.com/pages/stockists</loc></url>
+  <url><loc>https://www.example.com/faq</loc></url>
+  <url><loc>https://www.example.com/privacy-policy</loc></url>
+  <url><loc>https://www.example.com/terms</loc></url>
+  <url><loc>https://www.example.com/collections/all</loc></url>
+  <url><loc>https://www.example.com/collections/women</loc></url>
+  <url><loc>https://www.example.com/collections/women-dresses</loc></url>
+  <url><loc>https://www.example.com/collections/women-tops</loc></url>
+  <url><loc>https://www.example.com/collections/men</loc></url>
+  <url><loc>https://www.example.com/collections/men-shirts</loc></url>
+  <url><loc>https://www.example.com/collections/men-jackets</loc></url>
+  <url><loc>https://www.example.com/collections/sale</loc></url>
+  <url><loc>https://www.example.com/products/linen-wrap-dress</loc></url>
+  <url><loc>https://www.example.com/products/silk-blouse</loc></url>
+  <url><loc>https://www.example.com/products/oxford-shirt</loc></url>
+  <url><loc>https://www.example.com/products/waxed-jacket</loc></url>
+  <url><loc>https://www.example.com/products/gift-card</loc></url>
+  <url><loc>https://www.example.com/blogs/journal</loc></url>
+  <url><loc>https://www.example.com/blogs/journal/care-for-linen</loc></url>
+</urlset>
